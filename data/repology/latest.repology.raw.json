@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"bkp-bin","binname":"bkp-bin","visiblename":"bkp-bin","version":"0.1","origversion":"0.1-1","status":"unique","summary":"A simple backup utility written in Go","maintainers":["nfgf@aur"],"licenses":["GPL-1.0-or-later"]}]
